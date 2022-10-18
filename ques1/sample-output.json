@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Books",
+    "children": [
+      {
+        "name": "Programming",
+        "children": [
+          {
+            "name": "Database",
+            "children": [{ "name": "Mysql" }, { "name": "Elastic" }]
+          },
+          {
+            "name": "Language",
+            "children": [{ "name": "PHP" }, { "name": "Python" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Articles",
+    "children": [
+      {
+        "name": "Blog",
+        "children": [
+          { "name": "Personal" },
+          {
+            "name": "Coding",
+            "children": [{ "name": "Python" }, { "name": "Java" }]
+          }
+        ]
+      }
+    ]
+  }
+]
